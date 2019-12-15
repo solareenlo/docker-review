@@ -15,3 +15,7 @@ sudo docker-compose run --rm review rake epub
 
 ## 書き方
 - https://github.com/kmuto/review/wiki
+
+## References
+- https://github.com/vvakame/docker-review
+- https://github.com/vvakame/docker-review/blob/master/doc/windows-review.md
