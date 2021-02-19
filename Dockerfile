@@ -1,1 +1,1 @@
-FROM vvakame/review:4.1
+FROM vvakame/review:5.0
